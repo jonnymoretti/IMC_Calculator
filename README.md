@@ -18,7 +18,7 @@ A calculadora suporta os seguintes indicadores:
 git clone https://github.com/jonnymoretti/IMC_Calculator.git
 
 #2º Execute o script
-pyhton IMC_Calculator.py
+python IMC_Calculator.py
 
 #3º Siga as instruções no menu para selecionar o indicador desejado
 
