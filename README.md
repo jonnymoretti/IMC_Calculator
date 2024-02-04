@@ -5,12 +5,21 @@ Bem-vindo ao repositótio da Calculadora de Indicadores de Saúde! Este projeto 
 ### 📋 Funcionalidades
 A calculadora suporta os seguintes indicadores:
 <li>
-  <b>IMC (Índice de Massa Corporal):</b> Avalie o seu peso em relação à sua altura.
+  <b>IMC (Índice de Massa Corporal):</b> Avalie o seu peso em relação à sua altura. 
+</li>
+<li>
   <b>LBM (Massa Corporal Magra):</b> Calcule a quantidade de massa corporal isenta de gordura.
+</li>
+<li>
   <b>ABSI (Índice de Forma Corporal Ajustado pela Altura):</b> Uma medida inovadora da distribuição da gordura corporal.
+</li>
+<li>
   <b>ICQ (Índice de Conicidade Corporal):</b> Avalie a dsitribuição da gordura corporal em relação à forma do corpo.
+</li>
+<li>
   <b>WHtR (Razão Cintura-Altura):</b> Meça a distribuição de gordura abdominal.
 </li>
+
 
 ### 🚀 Como Usar
 ```
