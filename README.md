@@ -14,6 +14,27 @@ A calculadora suporta os seguintes indicadores:
 
 ### 🚀 Como Usar
 ```
-#Clone o repositório para sua máquina local.
-git clone https
+#1º Clone o repositório para sua máquina local.
+git clone https://github.com/jonnymoretti/IMC_Calculator.git
+
+#2º Execute o script
+pyhton IMC_Calculator.py
+
+#3º Siga as instruções no menu para selecionar o indicador desejado
+
+#4º Insira as informações necessárias (altura, peso, etc.)
+
+#5º Receba o resultado e monitore sua saúde!
 ```
+### 🎉 Inspiração
+Este projeto foi inspirado na busca contínua por uma abordagem holística para o monitoramento da saúde, incentivando a conscientização sobre diversos indicadores que vão além do simples peso corporal.
+
+### 📝 Contribuições
+Contribuições são bem-vindas! Se você tiver ideias para melhorar a calculadora ou adiconar novos indicadores, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+### 🙌 Agradecimentos
+Agradecemos por utilizar nossa Calculadora de Indicadores de Saúde! Esperamos que essa ferramenta seja útil para promover um estilo de vida saúdavel.
+
+**Disclaimer:** Este projeto é apenas uma ferramenta de referência e não substitui a orientação profissional. Consulte um profissional de saúde para obter conselhos personalizados.
+
+**Divirta-se monitorando sua saúde!** 😊
